@@ -1,3 +1,0 @@
-ID: Khushaalan
-Number: 123456789
-Special characters: %^&%$#
